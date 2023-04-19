@@ -1,1 +1,4 @@
 spm1d version M.0.4.10 (2022.09.23)
+
+DCHartlen Fork. Last Update: Apr 19, 2023
+   - Changes to two-sample non-parametric and FWHM estimations
